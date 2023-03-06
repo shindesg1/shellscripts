@@ -6,5 +6,7 @@ echo "Welcome to Young Minds"
 echo "Best class of AWS/DevOps"
 echo "We are learning git"
 echo "We are done with git"
-
+echo "This is sachin shinde"
+echo "I complted BE in 2013"
+echo "After that i have complted Mtech in 2016"
 
