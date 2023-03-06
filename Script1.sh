@@ -6,6 +6,5 @@ echo "Welcome to Young Minds"
 echo "Best class of AWS/DevOps"
 echo "We are learning git"
 echo "We are done with git"
-echo "We have started our devops-git/github topic"
-echo "good morning"
-echo "good Byee"
+
+
